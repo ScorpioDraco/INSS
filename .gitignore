@@ -10,6 +10,7 @@ cgdig/*
 cgdig/csaa/*
 !cgdig/csaa/daut/
 cgdig/csaa/daut/*
+!cgdig/csaa/daut/fragmentos
 
 # Ignora as cópias, especificamente
 cgdig/csaa/daut/fragmentos/selecao_fragmentos copy.py
