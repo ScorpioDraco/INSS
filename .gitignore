@@ -1,0 +1,16 @@
+# Ignora toda a estrutura, liberando apenas as pastas desejadas
+# - Libera a pasta (!) e em seguida bloqueia todo o seu conteúdo (/*)
+
+/*
+!.gitignore
+
+!cgdig/
+cgdig/*
+!cgdig/csaa/
+cgdig/csaa/*
+!cgdig/csaa/daut/
+cgdig/csaa/daut/*
+
+# Ignora as cópias, especificamente
+cgdig/csaa/daut/fragmentos/selecao_fragmentos copy.py
+cgdig/csaa/daut/fragmentos/selecao_fragmentos_gui_copia_seguranca.py
