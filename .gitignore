@@ -11,7 +11,10 @@ cgdig/csaa/*
 !cgdig/csaa/daut/
 cgdig/csaa/daut/*
 !cgdig/csaa/daut/fragmentos
+cgdig/csaa/daut/fragmentos/*
 
-# Ignora as cópias, especificamente
-cgdig/csaa/daut/fragmentos/selecao_fragmentos copy.py
-cgdig/csaa/daut/fragmentos/selecao_fragmentos_gui_copia_seguranca.py
+# Arquivos para sincronizar
+cgdig/csaa/daut/fragmentos/fragmentos.ico
+cgdig/csaa/daut/fragmentos/README.MD
+cgdig/csaa/daut/fragmentos/selecao_fragmentos.py
+cgdig/csaa/daut/fragmentos/selecao_fragmentos_gui.py
